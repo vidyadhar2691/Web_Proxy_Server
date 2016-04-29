@@ -15,7 +15,7 @@ Packages used are:
 # Instructions to use proxy.py
 1.	Change network settings in browser as shown in below figure. 
 
-![alt tag](Web_Proxy_Server/settings.png)
+![alt tag](settings.png)
 
 2.	In command prompt run the following command
 python proxy.py
